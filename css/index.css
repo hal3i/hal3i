@@ -1,0 +1,29 @@
+html {
+    color: #333333;
+}
+
+dd {
+    margin-left: 1.5em;
+    margin-bottom: 1em;
+}
+
+dl {
+    margin-left: 1em;
+}
+
+dt {
+    font-weight: bold;
+}
+
+.title {
+    font-size: 1.8em;
+}
+
+.valign-top {
+    vertical-align: top;
+}
+
+.no-wrap-cell {
+  text-align: center;
+  white-space: nowrap;
+}
